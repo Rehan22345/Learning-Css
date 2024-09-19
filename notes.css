@@ -1,0 +1,44 @@
+/*! diff types of colors named colors  , rgb , rgba  */
+/* combination of 3 colors to make one new ajuba colors 
+r = red  255
+g = green 255
+b = blue  255
+a = 0 to 1  */
+    /* color:pink; */
+    /* color: rgb(0,0,0); */
+/* color: rgba(20,30,50,0);  */
+
+/* font-family le chai hajur ko font ko writing types lai manage garxa like handwriting jsto kasto khalko handwriting vanera  */
+/*font weight le text ko motai lai boldness  ko manage garxa  */
+/* 1rem = 16px */
+/* 1rem = 16px
+1px = 1/16
+30px = 1/16*30 */
+/* font size le chai font wa text ko size lai badaune ghataune kam garxa  */
+/* text-align le text lai align garneyy kam garxa horizonatalyy  left , right ,center*/
+/* use rgb , rgba and others colors because they are more beautiful than named colors  */
+/* lowercase le sabailai small ma garxa upper le sabilai capital ma garxa
+ and capitalize le chai sbai word ko pailo letter lai capital garxa  */
+ /* line height helps to manage space between text and lines  */
+ /* text decoration le chai text ko decoration garxa like underline , overline , line through */
+ /* letter spacing le chai letter haru bich ma space dine kam garxa  */
+/* word spacing le chai words haru ko bich ma space dina lai hoo  */
+
+
+/* 
+padding , margin , border , border radius  
+padding adds space between content and border
+margin add spaces between  element and other elements
+border adds border around element
+border radius adds curve to border
+
+*/
+/* what is specificity ??  
+power & Importance
+jetho vanda ni kanxoo 
+
+
+
+
+
+*/
